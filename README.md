@@ -1,6 +1,10 @@
 # Falcord Desktop App
 
-Falcord is a custom server for Discord back in 2015-2018, and this is the desktop app for it! (maybe, idk)
+Falcord is a custom server for Discord back in 2015-2018, and this is the desktop app for it!<br>
+
+> [!NOTE]  
+> For security reasons, the old Discord desktop app isn't being used.<br>
+> It is possible to use the latest desktop app and make it use old client code to make it secure, this repo is not about that.
 <!-- hide for now as we do not have any previews
 ![](preview/preview1.png)
 ![](preview/preview2.png)
